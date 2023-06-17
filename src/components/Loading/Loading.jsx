@@ -7,6 +7,6 @@ const Loading = ({ loading }) => {
 			<ClipLoader color={"red"} loading={loading} size={40} />
 		</div>
 	);
-};
+};,,,
 
 export default Loading;
