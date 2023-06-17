@@ -5,7 +5,7 @@ import { BsEyeSlashFill, BsEyeFill } from "react-icons/bs";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { AuthContext } from "../../context/AuthProvider";
 import Swal from "sweetalert2";
-import axiosBase from "../hooks/useAxios/axiosBase";
+import axiosBase from "../hooks/useAxios/axiosBase";/
 
 const Login = () => {
 	const { signInUser, googleSignIn } = useContext(AuthContext);
