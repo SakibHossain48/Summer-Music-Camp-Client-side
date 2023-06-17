@@ -5,7 +5,7 @@ import { FaRegAddressBook } from "react-icons/fa";
 import { HiPhone } from "react-icons/hi";
 
 const Footer = () => {
-	return (
+	return (fff
 		<footer className=' lg:mb-5'>
 			<div className='footer p-10  bg-base-200 text-base-content rounded-t-xl '>
 				<div>
