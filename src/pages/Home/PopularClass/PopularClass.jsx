@@ -13,7 +13,7 @@ const PopularClass = () => {
 			setItems(data.data);
 			setLoading(false);
 		});
-	}, []);/
+	}, []);
 
 	return (
 		<div className='bg-base-200 py-10 mt-10 rounded-xl'>
