@@ -8,7 +8,7 @@ const Theme = ({ handleToggle, theme }) => {
 				onChange={handleToggle}
 				checked={theme === "light" ? false : true}
 			/>
-ll
+
 			{/* sun icon */}
 			<svg
 				className='swap-on fill-current w-10 h-10'
